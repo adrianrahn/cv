@@ -25,3 +25,15 @@ h1{
 .title p {
     font-size: 1.5em;
 }
+
+.quote-container{
+    display: flex;
+    align-items: center;
+}
+
+.education{
+    background-color: #DFA878;
+}
+.complementary-education{
+    background-color: #CEE6F3;
+}
