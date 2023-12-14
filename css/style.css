@@ -31,9 +31,22 @@ h1{
     align-items: center;
 }
 
+.experience{
+    background-color: antiquewhite;
+}
+
 .education{
     background-color: #DFA878;
 }
 .complementary-education{
     background-color: #CEE6F3;
+}
+
+.skills{}
+
+.projects{
+
+}
+.contact{
+
 }
