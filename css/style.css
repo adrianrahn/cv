@@ -6,6 +6,7 @@ h1{
     font-size: 3em;
 }
 
+/* Title */
 .title {
  background-color: antiquewhite;
  padding: 20px;
@@ -26,27 +27,42 @@ h1{
     font-size: 1.5em;
 }
 
+/* Quotes */
 .quote-container{
     display: flex;
     align-items: center;
 }
 
+/* Experience */
 .experience{
     background-color: antiquewhite;
 }
 
+/* Education */
 .education{
     background-color: #DFA878;
 }
+
+/* Complementary Education */
 .complementary-education{
     background-color: #CEE6F3;
 }
 
-.skills{}
+/* Skills */
+.skills{
+    
+}
 
+.skills .container{
+    display: grid;
+    grid-template-columns: 3fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+/* 
 .projects{
 
 }
+*/
 .contact{
 
 }
