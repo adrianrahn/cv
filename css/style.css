@@ -7,6 +7,12 @@ h1{
     font-size: 3em;
 }
 
+hr{
+    border: none;
+    height: 2px;
+    background-color: #BF7D5F;
+}
+
 /* Title */
 .title {
  background-color: #FAF4F1;
@@ -87,4 +93,8 @@ justify-content: center;
 */
 .contact{
 color: #BF7D5F;
+}
+
+.contact-container img{
+    width: 20px;
 }
